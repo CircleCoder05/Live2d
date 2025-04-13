@@ -1,0 +1,11 @@
+{
+  "name": "hk416-1-normal",
+  "version": "1.0.0",
+  "description": "HK416-1-normal",
+  "main": "model.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CircleCoder05",
+  "license": "MIT"
+}
